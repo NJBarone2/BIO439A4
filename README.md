@@ -12,5 +12,5 @@ May 11th 2018
 # Create a github repository including a README (in markdown) to submit your work.
 
 # There is a Readme.md file which gives an overview of what is in this directory
-# This is the Readme.md file, then there is a file, "" that contains the main script as well as all the data and results from the script
-
+# This is the Readme.md file
+# Then there is a file, "FinalScriptFromAtom.py" that contains the main script as well as all the data and results from the script, as well as the "test.py"
