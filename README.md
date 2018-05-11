@@ -10,3 +10,7 @@ May 11th 2018
 # Write a script to thoroughly test each of your functions.
 # Use the main function to read in your sequence data and output results.
 # Create a github repository including a README (in markdown) to submit your work.
+
+# There is a Readme.md file which gives an overview of what is in this directory
+# This is the Readme.md file, then there is a file, "" that contains the main script as well as all the data and results from the script
+
